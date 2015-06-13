@@ -8,5 +8,5 @@
       "scripts": ["background.js"],"persistent": false
     }
   },
-  "icons": { "16": "linkedin_search_icon_16.png", "128": "linkedin_search_icon_128.png","512": "linkedin_search_icon_512.png" }
+  "icons": { "16": "linkedin_search_icon_16.png", "128": "linkedin_search_icon_128.png","256": "linkedin_search_icon_512.png" }
 }
