@@ -1,0 +1,12 @@
+{
+  "name": "Linkedin search",
+  "description": "Search in Linkedin data",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"],"persistent": false
+    }
+  },
+  "icons": { "16": "linkedin_search_icon_16.png", "128": "linkedin_search_icon_128.png","512": "linkedin_search_icon_512.png" }
+}
